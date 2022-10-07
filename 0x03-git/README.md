@@ -1,1 +1,1 @@
-A practice of ho to edit file content on vi
+A practice of how to edit file content on vi
